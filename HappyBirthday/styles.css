@@ -1,0 +1,31 @@
+body {
+    background-color: #e47aaa; /* light pink */
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.image-container{
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#yesBtn {
+    background-color: #00cc66; /* green */
+    color: white;
+}
+
+#noBtn {
+    background-color: #ff3333; /* red */
+    color: white;
+}
